@@ -1,0 +1,10 @@
+ -log(Like) = 1.9868304978138172
+  chi-sq    = 3.9736609956276343
+
+    1  2.023229093e-01   a                        \alpha
+    2  1.673451064e-03   b                        \beta
+
+
+    3  7.345684344e-03   derived_a                \alpha^\prime
+    4  1.223905464e-03   derived_b                \beta^\prime
+    5  -3.697448082e-01  chi2__gaussian_mixture   \chi^2_{\rm gaussian\ mixture}

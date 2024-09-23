@@ -1,0 +1,35 @@
+# File: config.yaml
+
+likelihood:
+  MyCMBLikelihood:
+    external: true
+    
+
+theory:
+  camb:
+    stop_at_error: true
+    extra_args:
+      lens_potential_accuracy: 1
+
+params:
+  omega_b: 
+    prior: {min: 0.005, max: 0.1}
+    ref: {dist: norm, loc: 0.022, scale: 0.002}
+    proposal: 0.001
+    latex: \Omega_b
+  omega_cdm: 
+    prior: {min: 0.001, max: 0.99}
+    ref: {dist: norm, loc: 0.12, scale: 0.01}
+    proposal: 0.005
+    latex: \Omega_c
+  H0: 
+    prior: {min: 50, max: 100}
+    ref: {dist: norm, loc: 70, scale: 5}
+    proposal: 1
+    latex: H_0
+
+sampler:
+  mcmc:
+    max_tries: 100000
+
+output: chains

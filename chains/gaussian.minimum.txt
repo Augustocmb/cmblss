@@ -1,0 +1,2 @@
+#        weight    minuslogpost               a               b       derived_a       derived_b   minuslogprior minuslogprior__0            chi2 chi2__gaussian_mixture
+              1       1.9868305      0.20232291    0.0016734511    0.0073456843    0.0012239055       2.1717029        2.1717029     -0.36974481            -0.36974481
