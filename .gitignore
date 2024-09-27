@@ -1,0 +1,31 @@
+# Compiled source #
+###################
+git-lfs-3.5.1
+git-lfs-linux-amd64-v3.5.1.tar.gz
+CosmoMC
+data
+combined_mask.fits
+COM_CompMap_Compton-SZMap-MILCA-Csz-143GHz_2048_R2.00.fits
+COM_PowerSpect_CMB-base-plikHM-TTTEEE-lowl-lowE-lensing-minimum-theory_R3.01.txt
+COM_PowerSpect_CMB-TT-binned_R3.01.txt
+[0.80957031 1.         1.         ... 1.         1.         1.        ]
+base_plikHM_TT_lowTEB.minimum.theory_cl
+^C
+camb.input.yaml
+camb_plot-Copy1.py
+camb_plot.py
+camb.updated.yaml
+camb.yaml
+chains
+cib_nu0143.fits
+Cls
+cmb_map_after_dipole_removal.fits
+code
+code_amd64.deb
+combined_mask.fits
+COM_CompMap_Compton-SZMap-MILCA-Csz-143GHz_2048_R2.00.fits
+COM_PowerSpect_CMB-base-plikHM-TTTEEE-lowl-lowE-lensing-minimum-theory_R3.01.txt
+COM_PowerSpect_CMB-TT-binned_R3.01.txt
+CosmoMC
+data
+
