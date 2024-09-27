@@ -3,6 +3,15 @@
 git-lfs-3.5.1
 git-lfs-linux-amd64-v3.5.1.tar.gz
 CosmoMC
+# Ignorar archivos .npy
+mapa_cl.npy
+mapa_cl_1.npy
+
+# Ignorar archivos .bin
+data/planck_NPIPE_CamSpec/CamSpec_NPIPE/like_NPIPE_12.6_unified_cov.bin
+
+# Ignorar archivos .deb
+code_amd64.deb
 data
 data/planck_NPIPE_CamSpec/CamSpec_NPIPE/like_NPIPE_12.6_unified_cov.bin
 combined_mask.fits
