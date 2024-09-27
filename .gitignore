@@ -4,6 +4,7 @@ git-lfs-3.5.1
 git-lfs-linux-amd64-v3.5.1.tar.gz
 CosmoMC
 data
+data/planck_NPIPE_CamSpec/CamSpec_NPIPE/like_NPIPE_12.6_unified_cov.bin
 combined_mask.fits
 COM_CompMap_Compton-SZMap-MILCA-Csz-143GHz_2048_R2.00.fits
 COM_PowerSpect_CMB-base-plikHM-TTTEEE-lowl-lowE-lensing-minimum-theory_R3.01.txt
@@ -29,4 +30,5 @@ COM_PowerSpect_CMB-TT-binned_R3.01.txt
 CosmoMC
 data
 like_NPIPE_12.6_unified_cov.bin
-
+mapa_cl.npy
+ mapa_cl_1.npy
