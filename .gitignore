@@ -13,3 +13,14 @@
 
 #Ignore all .txt files
 *.txt
+
+# Ignore cl files
+base_plikHM_TT_lowTEB.minimum.theory_cl
+Cls
+Errors
+Th_cls
+data/planck_NPIPE_CamSpec/CamSpec_NPIPE/like_NPIPE_12.6_unified_cov.bin
+# Ignore dat files
+*.dat
+git-lfs-linux-amd64-v3.5.1.tar.gz
+
