@@ -1,3 +1,0 @@
-source : psm_diffuse_bydet.c
-data   : psm_diffuse_bydet.dat
-python : psm_diffuse_bydet.pyx

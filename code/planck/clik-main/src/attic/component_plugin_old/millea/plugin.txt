@@ -1,2 +1,0 @@
-source : millea.c
-python : millea.pyx

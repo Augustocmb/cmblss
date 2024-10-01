@@ -1,3 +1,0 @@
-source : psm_compact_bydet.c
-data   : psm_compact_bydet.dat
-python : psm_compact_bydet.pyx
